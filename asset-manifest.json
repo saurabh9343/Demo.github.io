@@ -1,10 +1,10 @@
 {
   "files": {
-    "main.js": "/your-repo-name/static/js/main.e08133a3.js",
-    "index.html": "/your-repo-name/index.html",
-    "main.e08133a3.js.map": "/your-repo-name/static/js/main.e08133a3.js.map"
+    "main.js": "/Demo.github.io/static/js/main.5b0fafb9.js",
+    "index.html": "/Demo.github.io/index.html",
+    "main.5b0fafb9.js.map": "/Demo.github.io/static/js/main.5b0fafb9.js.map"
   },
   "entrypoints": [
-    "static/js/main.e08133a3.js"
+    "static/js/main.5b0fafb9.js"
   ]
 }
